@@ -1,1 +1,1 @@
-Its a TO-DO App Created using HTML, CSS and JavaScript.
+It's a TO-DO App Created using HTML, CSS and JavaScript.
